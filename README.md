@@ -8,3 +8,5 @@ Posture Correction project using PoseNet model from TensorFlow.js
 
 ### Benefit:
 Helps you in maintaing correct posture at all times.
+
+[Watch Demo](https://aastha985.github.io/Posture-Correction/)
